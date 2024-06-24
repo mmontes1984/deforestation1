@@ -1,0 +1,3 @@
+Para rodar esse projeto é necessario primeiro criar o banco com o nom ***deforestation***.
+Após isso va para a url http://localhost/deforestation/api. Isso vai inserir alguns dados no banco de dados.
+Agora é só seguir para http://localhost/deforestation/app/views/.

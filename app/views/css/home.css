@@ -1,0 +1,45 @@
+.hero {
+    position: relative;
+    background-image: url("https://via.placeholder.com/1500x600");
+    background-size: cover;
+    height: 550px;
+    color: #fff;
+    display: flex;
+    align-items: flex-end;
+}
+#hero {
+    background: url('../static/desmatamento.jpg');
+}
+.hero-text {
+    padding-bottom: 50px;
+}
+.gap {
+    column-gap: 30px;
+}
+
+#posts-container > div {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+#posts {
+    display: flex;
+    flex-direction: column;
+}
+
+/* #write-post-anchor {
+    background-color: rgb(4, 139, 4);
+    outline: auto;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+#write-post-anchor:hover {
+    background-color: white;
+    color: green;
+    transition: 0.2s;
+    */
+/* } */
